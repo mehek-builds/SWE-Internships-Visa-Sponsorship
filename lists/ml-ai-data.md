@@ -118,6 +118,6 @@ _Pulled from companies' own job boards and rebuilt every Monday._
 | **Jump Trading** | [Campus AI Research Engineer - Research Automation (Intern)](https://trylitos.com/job/26ed13c6-ef42-4ea7-84e3-ba25cbc032a0?utm_source=github&utm_campaign=swe-visa-ml-ai-data) | Chicago; New York |  | Aug 18 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Jump Trading** | [Campus AI Research Engineer - Deep Learning (Intern)](https://trylitos.com/job/ca67c5fa-664c-44a6-be1e-e76ee5b72853?utm_source=github&utm_campaign=swe-visa-ml-ai-data) | Chicago; New York |  | Aug 18 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 | **Jump Trading** | [Campus AI Research Engineer (Intern)](https://trylitos.com/job/0c75dac1-fb42-4b93-b25d-7a2e87fa1fd1?utm_source=github&utm_campaign=swe-visa-ml-ai-data) | Chicago; New York |  | Aug 18 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
-| **Jump Trading** | [Campus Data Engineer (Intern)](https://trylitos.com/job/b28d867b-5418-4240-b37d-e490fdee1331?utm_source=github&utm_campaign=swe-visa-ml-ai-data) | Chicago; London |  | Aug 18 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
+| **Jump Trading** | [Campus Data Engineer (Intern)](https://trylitos.com/job/abb2d08e-7040-4b5c-bba0-8accbf619316?utm_source=github&utm_campaign=swe-visa-ml-ai-data) | Chicago |  | Aug 14 | Employer has US H-1B filings (USCIS and DOL records); posting does not say |
 
 [Download as CSV](../csv/) · [All lists](../README.md)
